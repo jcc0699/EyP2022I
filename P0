@@ -20,26 +20,22 @@ output:
 
 # Primera idea
 
-## *Consumo de drogas y desempeño estudiantil en los estudiantes UTEC durante los ciclos 2021-II y 2022-I*
+## *Análisis de los consumos energéticos en las viviendas de los estudiantes UTEC antes y después de la pandemia*
 
 ### *Relevancia*
 
-El impacto de la reciente pandemia causada por el COVID-19 ha afectado al mundo y a sus habitantes. El aislamiento y las otras medidas preventivas han causado un 
-detrimento en la salud de las personas, desarrollando problemas de salud mental y adicciones para lidiar con el estrés de la coyuntura actual. Específicamente, la
-población estudiantil se ha visto como una de las más afectadas debido a la adaptación a las clases virtuales y la limitación a salir y socializar con sus pares. 
 
-En este sentido, se desea investigar acerca de la relevancia que tiene el consumo de drogas y/o sustancias nocivas con el desempeño académico de la población estudiantil
-de la Universidad de Ingeniería y Tecnología que ha estado cursando los dos últimos ciclos académicos (incluyendo éste). Si bien es cierto que ya existen publicaciones y estudios
-exhaustivos en esta área, es importante analizar este contexto específico para generar posibles alternativas y planes de acción acorde a la población de estudio en pro de su 
-salud.
 
 ### *Factibilidad*
 
-Uno de los factores clave para determinar si el proyecto es factible o no es ver si la muestra, es decir, el grupo de estudiantes UTEC que se desee estudiar, cumple con las características
-del estudio. Actualmente las autoridades académicas relacionadas al bienestar estudiantil no han publicado o desarrollado programas relacionados al consumo de drogas, por lo que podría
-ser inferido el hecho de que un porcentaje pequeño de la población a estudiar consume drogas. Por otro lado, otro factor importante es la recolección de datos. Las drogas son un tópico que
-no es tan abierto a discusión en la comunidad universitaria lo cual podría afectar la calidad de los datos ya que los estudiantes, al no sentirse cómodos respondiendo las preguntas pertinentes, podrían
-brindar información errónea que afecte los resultados a posteriori.
+
+
+#### Tabla de variables
+
+| Nombre de la variable   |          Tipo         | Descripción                              |
+| :---                    |    :----:             |          ---:                            |
+| A                       | Numérica discreta     | Ciclo que el alumno está cursando        |
+| Paragraph               | Text                  | And more                                 | 
 
 ### *Respuesta a las preguntas* 
 
@@ -49,40 +45,50 @@ Consideramos que sí ya que afecta directamente a la comunidad estudiantil.
 
 2. *¿Qué información se desea aportar al final del estudio?*
 
-Se desea brindar un panorama general del consumo de sustancias nocivas en la población estudiantil para que los organismos correspondiente generen iniciativas o planes de acción
-para beneficiar a los individuos afectados y mejorar la salud general de la comunidad universitaria.
+
 
 3. *¿Es posible llegar a la información que se propone de manera específica y concreta?*
 
-En algún sentido, sí. Depende de las herramientas que se utilicen. Por ahora está pensado realizar encuestas a través de un google forms.
+
 
 
 
 # Segunda idea
 
-## *Análisis del mercado de bicicletas (podría ser eléctricas o no) antes y durante pandemia*
+## *Comparación entre la nueva normalidad y la realidad pre-pandemia de los estudiantes UTEC*
 
 ### *Relevancia*
 
-Auxilio
+Las nuevas medidas para retornar a la presencialidad han impactado positivamente en el desarrollo de, tanto las personas, como del progreso económico del país. Específicamente, los estudiantes
+se han animado ante las flexibilizaciones emitidas por el Gobierno, entre ellas, el retorno al campus. En este sentido, se pretende comparar el desempeño académico de los estudiantes
+antes del confinamiento por la pandemia por el COVID-19 y el último ciclo netamente virtual, así como evaluar la receptividad de la población estudiantil ante el retorno a la 
+semipresencialidad. La relevancia recae en la importancia que tiene para los estudiantes el regreso a clases y ver cómo esta nueva adaptación crea efectos en su calidad como estudiantes.
 
 ### *Factibilidad*
 
-Auxilio
+La información será recolectada a través de encuestas a la población estudiantil de la UTEC, por lo que es posible llegar al número de observaciones requerido. A continuación se presenta 
+una tabla con las posibles variables de estudio:
+
+#### Tabla de variables
+
+| Nombre de la variable   |          Tipo         | Descripción                              |
+| :---                    |    :----:             |          ---:                            |
+| A                       | Numérica discreta     | Ciclo que el alumno está cursando        |
+| Paragraph               | Text                  | And more                                 | 
 
 ### *Respuesta a las preguntas* 
 
 1. *¿Es el estudio de interés para la audiencia?*
 
-Si
+Sí debido a que sus resultados pueden ser importantes y ser tomados en cuenta a la hora de innovar la calidad educativa de los estudiantes.
 
 2. *¿Qué información se desea aportar al final del estudio?*
 
-Si
+Se desea brindar un panorama general del cambio de modalidad de clases y ver cómo ésta afecta al estudiante.
 
 3. *¿Es posible llegar a la información que se propone de manera específica y concreta?*
 
-Si
+Muy probablemente sí ya que va a depender de la disposición de los estudiantes a llenar la encuesta requerida.
 
 # Tercera idea: 
 
