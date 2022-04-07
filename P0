@@ -71,9 +71,9 @@ una tabla con las posibles variables de estudio:
 
 #### Tabla de variables
 
-| Nombre de la variable   |          Tipo         | Descripción                              |
+| Nombre de la variable |          Tipo         | Descripción                              |
 | :---                    |    :----:             |          ---:                            |
-| A                       | Numérica discreta     | Ciclo que el alumno está cursando        |
+| Ciclo       | Numérica discreta     | Ciclo que el alumno está cursando        |
 | Paragraph               | Text                  | And more                                 | 
 
 ### *Respuesta a las preguntas* 
